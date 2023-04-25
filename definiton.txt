@@ -1,0 +1,45 @@
+
+
+what is varification
+verification 
+we are verifcating our functionalilty will staftified the customer requirement  or not 
+
+weither it is develop correctly as per the cutomer requirment 
+validation
+
+we are validatliy the functional as user point of view 
+weither user should able to to use the functionality or 
+
+not 
+
+
+Requirment Annalisis
+Testcase planing
+Testcase Develop 
+Test Env setup 
+Test execution 
+Test clouser
+
+what should be Entiries and Exits 
+criteria 
+to complete 
+
+Requirment analisis=====Generally quility assurace Team meet to the stock holder tthe discuss about the requirment 
+Test Planing --WE NEED TO etimate effort 
+Test development nned to prepare Testcase document 
+Test ENV setup -------- need to preparse do setup for the Testing ENV 
+Test EXec               we have to  executte all those testcase 
+Test case closure where we need to prepare Testing report summary to and need to share to the stock holder thand other Team member 
+
+what BRD FRD SRD 
+
+reduces risk of the failure in the production 
+casotrofic imapct if it is software the the hospotal that impact on life  as well as finacial imapct 
+if software is ecoomrance bussines it has major fanacial imapact and the bussiness and revenve loss 
+good sofware is having bugs free more reliable performance which intends to the less cost
+ 
+
+
+
+
+
