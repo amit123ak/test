@@ -38,7 +38,27 @@ casotrofic imapct if it is software the the hospotal that impact on life  as wel
 if software is ecoomrance bussines it has major fanacial imapact and the bussiness and revenve loss 
 good sofware is having bugs free more reliable performance which intends to the less cost
  
+--------------------------------------------------------------
+SDLC 
+------------------------
+Software Develop Life cycle is  process used by the software  industry to design  and Develop high Quality the software
 
+moulde 
+resistrations  page
+login page 
+wish list 
+add to cart 
+product list page 
+payment process
+order page 
+
+1) planning
+2) design rough mockup
+3) building 
+4) testing
+5) deployment and maintanes 
+
+ 
 
 
 
